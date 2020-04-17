@@ -1,0 +1,22 @@
+{
+  "name": "wand",
+  "version": "0.0.1",
+  "description": "wand js utils for wand and dragon",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devfans/wand-js.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Stefan Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devfans/wand-js/issues"
+  },
+  "homepage": "https://github.com/devfans/wand-js#readme"
+}
