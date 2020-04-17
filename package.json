@@ -1,5 +1,5 @@
 {
-  "name": "wand",
+  "name": "wand-js",
   "version": "0.0.1",
   "description": "wand js utils for wand and dragon",
   "main": "lib/index.js",
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/devfans/wand-js.git"
   },
   "keywords": [
-    "game"
+    "game",
+    "asset"
   ],
   "author": "Stefan Liu",
   "license": "ISC",
