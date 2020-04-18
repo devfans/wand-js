@@ -1,6 +1,6 @@
 {
   "name": "wand-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "wand js utils for wand and dragon",
   "main": "lib/index.js",
   "scripts": {
