@@ -1,4 +1,6 @@
 !.gitignore
 node_modules
 packing
+*.swp
+*/*.swp
 
